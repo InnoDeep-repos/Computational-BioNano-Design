@@ -1,6 +1,6 @@
 # Computational-BioNano-Design
 
-# DeepSelect: Computational Bio-Nano Design & Molecular Analysis
+# Computational Bio-Nano Design & Molecular Analysis
 
 This repository integrates my research on bio-nanorobotic systems modeling with advanced ML-driven molecular characterization. It serves as a bridge between biophysical theory and high-performance computing (HPC).
 
